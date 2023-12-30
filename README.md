@@ -11,9 +11,8 @@
 [BMOI_Connector_All_v4.0.rar](https://github.com/Flowgun/BMOI_Connector/releases/download/v4.0/BMOI_Connector_All_v4.0.rar)
 
 ### Installation through download:
-1. Download "BMOI_Connector_All_v4.0.rar"
-2. Extract somewhere
-3. Install Blender addon: Move  "BMOI_Connector" folder to "C:\Users\<username>\AppData\Roaming\Blender Foundation\Blender\<Blender Version>\scripts\addons" (or you can click install in Blender and choose "BMOI_Connector.zip" folder)
+1. Download "BMOI_Connector_All_v4.0.rar" and Extract somewhere
+3. Install Blender addon: extract  "BMOI_Connector.zip" to "C:\Users\<username>\AppData\Roaming\Blender Foundation\Blender\<Blender Version>\scripts\addons" (or you can click install in Blender and choose "BMOI_Connector.zip")
 4. Install Moi3D scripts: open "MOI3D" folder and move its content ("Commands" and "Startup" folders) to "c:\Users\<username>\AppData\Roaming\Moi\"
 
 
