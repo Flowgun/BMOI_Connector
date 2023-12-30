@@ -8,12 +8,12 @@
 2. Windows 10 temp folder location must be by default
 
 ### Download:
-[BMOI_Connector-master.zip](https://github.com/TitusLVR/BMOI_Connector/archive/master.zip)
+[BMOI_Connector_All_v4.0.rar](hhttps://github.com/Flowgun/BMOI_Connector/releases/download/v4.0/BMOI_Connector_All_v4.0.rar)
 
 ### Installation through download:
-1. Download "BMOI_Connector-master.zip"
+1. Download "BMOI_Connector_All_v4.0.rar"
 2. Extract somewhere
-3. Install Blender addon: Move  "BMOI_Connector" folder to "C:\Users\<username>\AppData\Roaming\Blender Foundation\Blender\<Blender Version>\scripts\addons"
+3. Install Blender addon: Move  "BMOI_Connector" folder to "C:\Users\<username>\AppData\Roaming\Blender Foundation\Blender\<Blender Version>\scripts\addons" (or you can click install in Blender and choose "BMOI_Connector.zip" folder)
 4. Install Moi3D scripts: open "MOI3D" folder and move its content ("Commands" and "Startup" folders) to "c:\Users\<username>\AppData\Roaming\Moi\"
 
 
