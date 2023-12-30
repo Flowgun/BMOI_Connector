@@ -4,8 +4,11 @@
 ![BMOI BANNER](https://i.imgur.com/sjLP3k8.jpg)
 
 ### System requirements:
-1. Windows 10
-2. Windows 10 temp folder location must be by default
+* Mac
+* Windows
+  1. Windows 10/11
+  2. Windows 10 temp folder location must be by default
+* Blender 2.8 or higher
 
 ### Download:
 [BMOI_Connector_All_v4.0.rar](https://github.com/Flowgun/BMOI_Connector/releases/download/v4.0/BMOI_Connector_All_v4.0.rar)
