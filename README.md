@@ -12,14 +12,15 @@
 
 ### Installation through download:
 1. Download "BMOI_Connector-master.zip"
-2. Extract somewhere and rename extracted folder to "BMOI_Connector"
-3. Copy  "BMOI_Connector" folder to "C:\Users\<username>\AppData\Roaming\Blender Foundation\Blender\2.8x(2.9x)\scripts\addons"
-4. Run Blender > Edit > Preferences > Addons > And activate "BMOI Connector"
+2. Extract somewhere
+3. Install Blender addon: Move  "BMOI_Connector" folder to "C:\Users\<username>\AppData\Roaming\Blender Foundation\Blender\<Blender Version>\scripts\addons"
+4. Install Moi3D scripts: open "MOI3D" folder and move its content ("Commands" and "Startup" folders) to "c:\Users\<username>\AppData\Roaming\Moi\"
 
-### Install Moi3D scripts:
-1. Open "BMOI_Connector\MOI3D" folder
-2. Copy Commands and Startup folders to "c:\Users\<username>\AppData\Roaming\Moi\"
-3. Run Moi3d
+
+### Configuration:
+1. Activate the Blender addon: Run Blender > Edit > Preferences > Addons > And activate "BMOI Connector".
+2. Open the moi.ini file in C: \ Users \ Your UserName \ AppData \ ROAMING \ MOI, and change the "fbx = 2010" to "FBX = 2016".
+
 
 ### How-to:
 #### Blender:
@@ -28,9 +29,11 @@
 * If you want to send objects to Moi3d  - press "Send to Moi3d" button
 * If you want to get result from Moi3d  - press "Get from Moi3d" button
 
+
+
 ### Moi3D:
-* If you want to send objects to Blender - "BMOI Export" button
-* If you want to get objects from Blender - "BMOI Import" button
+* If you want to send objects to Blender - "BMOI Export" button (or you can add "bmoi_export_FBX" command to a hotkey)
+* If you want to get objects from Blender - "BMOI Import" button (or you can add "bmoi_Import_OBJ" command to a hotkey)
 
 Thank you!
  
