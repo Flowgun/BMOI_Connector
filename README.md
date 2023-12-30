@@ -8,7 +8,7 @@
 2. Windows 10 temp folder location must be by default
 
 ### Download:
-[BMOI_Connector_All_v4.0.rar](hhttps://github.com/Flowgun/BMOI_Connector/releases/download/v4.0/BMOI_Connector_All_v4.0.rar)
+[BMOI_Connector_All_v4.0.rar](https://github.com/Flowgun/BMOI_Connector/releases/download/v4.0/BMOI_Connector_All_v4.0.rar)
 
 ### Installation through download:
 1. Download "BMOI_Connector_All_v4.0.rar"
