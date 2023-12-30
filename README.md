@@ -22,6 +22,7 @@
 ### Configuration:
 1. Activate the Blender addon: Run Blender > Edit > Preferences > Addons > And activate "BMOI Connector".
 2. Open the moi.ini file in C: \ Users \ Your UserName \ AppData \ ROAMING \ MOI, and change the "fbx = 2010" to "FBX = 2016".
+3. Make sure to create the exchange folder manually, otherwise the addons will fail. On Windows, press "win+r" and type "%temp%" (to open "C:\Users\username\AppData\Local\Temp" folder); and Create in it a folder named "BMOI".
 
 
 ### How-to:
