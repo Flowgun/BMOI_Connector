@@ -115,6 +115,7 @@ def BMOI_Export():
                                  global_scale=export_scale,
                                  path_mode='AUTO')
 
+
 def BMAX_Import():    
     #---Variables---  
     prefs = bpy.context.preferences.addons['BMOI_Connector'].preferences       
